@@ -27,4 +27,4 @@ def takeScreenshot():
     except Exception as e:
         pass
     
-    takeScreenshot()
+takeScreenshot()
